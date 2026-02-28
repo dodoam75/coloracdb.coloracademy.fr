@@ -1,1 +1,1 @@
-Premier vraie site web que je fait pour aider mon père dans son travaille je me suis inspirer de son ancient site web ou le php n'était plus supporter grace a lui j'ai apppris et maitriser les base du php
+Première mission professionnelle. Reprise d’un site interne permettant de gérer les clients/produits/licenses d’une petite entreprise. Front et back office en HTML/CSS/PHP. Mise à jour du site en php 8 suite à l’arrêt de php 5 par le serveur.
